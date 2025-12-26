@@ -59,8 +59,8 @@ This is **not an official Spotify website**.
 
 ## 🧑‍💻 Author
 
-
-Rahul Alle
-git link: https://github.com/Rahulalle2478/spotify-clone.git
+--- Rahul Alle ---
+----
+Git link: https://github.com/Rahulalle2478/spotify-clone.git
 ---
 
